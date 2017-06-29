@@ -57,3 +57,7 @@ python test_celery_queue.py
 ```bash
 celery flower
 ```
+
+## Evaluation
+
+Barbaric evaluation using a stopwatch and watching how empty the message queues are to measure message throughput.
